@@ -15,7 +15,7 @@ Various Models has been tested to see which provided the best accuracy for its p
 
 Dataset : https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
-We will use the (EMSCAD) dataset in this project. The Employment Scam Aegean Dataset (EMSCAD) is a publicly available dataset of 17,880 actual job advertising that aims to provide an in-depth analysis of the Employment Scam problem and pinpoint the factors that are most helpful in identifying the types of fraudulent job offers.
+The (EMSCAD) dataset will be used for this Text Classification project. The Employment Scam Aegean Dataset (EMSCAD) is a publicly available dataset of 17,880 actual job advertising that aims to provide an in-depth analysis of the Employment Scam problem and pinpoint the factors that are most helpful in identifying the types of fraudulent job offers such as the word tokens & the phrases used.
 
 ![image](https://github.com/juliuschanjq/Machine-Learning-Projects/assets/113488890/bb69c1b2-93e7-4765-8f8e-c6f6b205460c)
 
