@@ -21,6 +21,23 @@ The (EMSCAD) dataset will be used for this Text Classification project. The Empl
 
 ![image](https://github.com/juliuschanjq/Machine-Learning-Projects/assets/113488890/f134f7a1-53a8-4468-a933-f8a5261a6b1d)
 
+### Heart Disease Prediction (Machine Learning Using Orange)
+
+Dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+The dataset is sourced from the Australian Bureau of Meteorology and comprises around ten years of daily weather observations from various places throughout Australia. The objective is to predict rainfall accurately for the following day. This prediction is vital for planning daily activities and mitigating the impact of unexpected weather events.
+
+### Overview
+
+![Image](https://github.com/juliuschanjq/Machine-Learning-Projects/assets/113488890/a666acd6-1e47-4a65-be61-8fffac0a5fd1)
+
+![Test and Score 1](https://github.com/juliuschanjq/Machine-Learning-Projects/assets/113488890/27ebe5a2-85f9-4a3d-a166-c530680e5748)
+
+
+
+
+
+
 
 
 
