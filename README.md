@@ -21,7 +21,7 @@ The (EMSCAD) dataset will be used for this Text Classification project. The Empl
 
 ![image](https://github.com/juliuschanjq/Machine-Learning-Projects/assets/113488890/f134f7a1-53a8-4468-a933-f8a5261a6b1d)
 
-### Heart Disease Prediction (Machine Learning Using Orange)
+### Rainfall Prediciton (Machine Learning Using Orange)
 
 Dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
